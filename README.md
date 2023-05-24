@@ -2,6 +2,8 @@
 
 This is a virtual version of classic 5*5 grid BINGO game using pygame. The user and bot compete to select 5 rows either horizontally, vertically or diagonally to win.
 
+![Bingo1](https://github.com/Advait-Shrivastava/The-Classic-BINGO/assets/59224726/2af3a093-3bd5-4cc2-94a2-0694149026b9)
+![Bingo2](https://github.com/Advait-Shrivastava/The-Classic-BINGO/assets/59224726/d5a3aaa2-c1d1-4050-bc89-05f75f93d82f)
 
 
 ## Description
