@@ -1,3 +1,11 @@
+"""
+Created By : Advait Shrivastava
+Date : 03-09-2020
+Project - The Classic BINGO
+
+"""
+
+
 import pygame
 import random
 import os
@@ -297,8 +305,6 @@ def main():
                     bot = [[p if p != solver_del else "O" for p in s] for s in bot]
                     bot_random.remove(solver_del)
 
-                    #print("GRID - ",grid)
-                    #print("BOT -",bot)
                     x1 = column1*(CUBE_SIZE+MARGIN_SIZE) - count_lable.get_width()//2
                     y1 = row1*(CUBE_SIZE+MARGIN_SIZE)
 
